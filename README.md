@@ -1,6 +1,6 @@
-# AI and Emerging Trends
+# AI Treasure Hunting Game
 
-Welcome to the AI and Emerging Trends repository. This repository explores various aspects of AI and its impact on emerging trends.
+Welcome to the AI Treasure Hunting Game repository. This repository explores various aspects of AI and its impact on emerging trends.
 
 ## Contents
 
